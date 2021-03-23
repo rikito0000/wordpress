@@ -1,0 +1,21 @@
+AH00557: httpd: apr_sockaddr_info_get() failed for MBPikeda
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 22 16:13:57.465234 2021] [mpm_event:notice] [pid 6377:tid 4602756608] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Mar 22 16:13:57.465728 2021] [core:notice] [pid 6377:tid 4602756608] AH00094: Command line: '/Users/ikedarikito/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ikedarikito/Library/Application Support/Local/run/q1CNplp44/conf/apache/apache2.conf'
+[Mon Mar 22 16:23:11.102801 2021] [mpm_event:notice] [pid 6377:tid 4602756608] AH00491: caught SIGTERM, shutting down
+AH00557: httpd: apr_sockaddr_info_get() failed for MBPikeda
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 22 16:23:14.956274 2021] [mpm_event:notice] [pid 7733:tid 4518964736] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Mar 22 16:23:14.957590 2021] [core:notice] [pid 7733:tid 4518964736] AH00094: Command line: '/Users/ikedarikito/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ikedarikito/Library/Application Support/Local/run/q1CNplp44/conf/apache/apache2.conf'
+[Tue Mar 23 12:03:42.595603 2021] [mpm_event:notice] [pid 7733:tid 4518964736] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Proikeda.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 23 12:04:53.967306 2021] [mpm_event:notice] [pid 28432:tid 4583181824] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Mar 23 12:04:53.967780 2021] [core:notice] [pid 28432:tid 4583181824] AH00094: Command line: '/Users/ikedarikito/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ikedarikito/Library/Application Support/Local/run/q1CNplp44/conf/apache/apache2.conf'
+[Tue Mar 23 14:25:18.870561 2021] [mpm_event:notice] [pid 28432:tid 4583181824] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Proikeda.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 23 14:25:20.278649 2021] [mpm_event:notice] [pid 33529:tid 4471258624] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Mar 23 14:25:20.280329 2021] [core:notice] [pid 33529:tid 4471258624] AH00094: Command line: '/Users/ikedarikito/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ikedarikito/Library/Application Support/Local/run/q1CNplp44/conf/apache/apache2.conf'
+[Tue Mar 23 16:01:22.418333 2021] [mpm_event:notice] [pid 33529:tid 4471258624] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Proikeda.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 23 16:01:23.526623 2021] [mpm_event:notice] [pid 39994:tid 4480908800] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Mar 23 16:01:23.527174 2021] [core:notice] [pid 39994:tid 4480908800] AH00094: Command line: '/Users/ikedarikito/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ikedarikito/Library/Application Support/Local/run/q1CNplp44/conf/apache/apache2.conf'

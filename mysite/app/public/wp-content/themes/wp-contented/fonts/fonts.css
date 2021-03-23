@@ -1,0 +1,76 @@
+/*fonts*/
+@font-face {
+  font-family: 'Raleway-Bold';
+  src: url('raleway-bold-webfont.eot');
+    src: url('raleway-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('raleway-bold-webfont.woff') format('woff'),
+         url('raleway-bold-webfont.ttf') format('truetype'),
+         url('raleway-bold-webfont.svg#ralewaybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'oswaldbold';
+    src: url('oswald-bold/oswald-bold-webfont.eot');
+    src: url('oswald-bold/oswald-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('oswald-bold/oswald-bold-webfont.woff2') format('woff2'),
+         url('oswald-bold/oswald-bold-webfont.woff') format('woff'),
+         url('oswald-bold/oswald-bold-webfont.ttf') format('truetype'),
+         url('oswald-bold/oswald-bold-webfont.svg#oswaldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'oswaldbook';
+    src: url('oswald-book/oswald-regular-webfont.eot');
+    src: url('oswald-book/oswald-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('oswald-book/oswald-regular-webfont.woff2') format('woff2'),
+         url('oswald-book/oswald-regular-webfont.woff') format('woff'),
+         url('oswald-book/oswald-regular-webfont.ttf') format('truetype'),
+         url('oswald-book/oswald-regular-webfont.svg#oswaldbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'oswaldlight';
+    src: url('oswald-light/oswald-light-webfont.eot');
+    src: url('oswald-light/oswald-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('oswald-light/oswald-light-webfont.woff2') format('woff2'),
+         url('oswald-light/oswald-light-webfont.woff') format('woff'),
+         url('oswald-light/oswald-light-webfont.ttf') format('truetype'),
+         url('oswald-light/oswald-light-webfont.svg#oswaldlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vollkornitalic';
+    src: url('vollkorn-ital/vollkorn-italic-webfont.eot');
+    src: url('vollkorn-ital/vollkorn-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('vollkorn-ital/vollkorn-italic-webfont.woff2') format('woff2'),
+         url('vollkorn-ital/vollkorn-italic-webfont.woff') format('woff'),
+         url('vollkorn-ital/vollkorn-italic-webfont.ttf') format('truetype'),
+         url('vollkorn-ital/vollkorn-italic-webfont.svg#vollkornitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vollkornregular';
+    src: url('vollkorn-reg/vollkorn-regular-webfont.eot');
+    src: url('vollkorn-reg/vollkorn-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('vollkorn-reg/vollkorn-regular-webfont.woff2') format('woff2'),
+         url('vollkorn-reg/vollkorn-regular-webfont.woff') format('woff'),
+         url('vollkorn-reg/vollkorn-regular-webfont.ttf') format('truetype'),
+         url('vollkorn-reg/vollkorn-regular-webfont.svg#vollkornregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

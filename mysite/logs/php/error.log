@@ -1,0 +1,31 @@
+[23-Mar-2021 05:59:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/themes/tra/index.php on line 138
+[23-Mar-2021 05:59:14 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[23-Mar-2021 05:59:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/themes/tra/index.php on line 138
+[23-Mar-2021 05:59:17 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[23-Mar-2021 06:36:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/plugins/query-monitor/classes/Backtrace.php on line 97
+[23-Mar-2021 06:36:06 UTC] PHP Stack trace:
+[23-Mar-2021 06:36:06 UTC] PHP   1. {main}() /Users/ikedarikito/Local Sites/mysite/app/public/index.php:0
+[23-Mar-2021 06:36:06 UTC] PHP   2. require() /Users/ikedarikito/Local Sites/mysite/app/public/index.php:17
+[23-Mar-2021 06:36:06 UTC] PHP   3. require_once() /Users/ikedarikito/Local Sites/mysite/app/public/wp-blog-header.php:19
+[23-Mar-2021 06:36:06 UTC] PHP   4. include() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/template-loader.php:106
+[23-Mar-2021 06:36:06 UTC] PHP   5. the_post() /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/themes/tra/index.php:89
+[23-Mar-2021 06:36:06 UTC] PHP   6. WP_Query->the_post() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/query.php:975
+[23-Mar-2021 06:36:06 UTC] PHP   7. WP_Query->next_post() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-query.php:3329
+[23-Mar-2021 06:36:06 UTC] PHP   8. QM_Collector_PHP_Errors->error_handler() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-query.php:3300
+[23-Mar-2021 06:36:06 UTC] PHP   9. QM_Backtrace->__construct() /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/plugins/query-monitor/collectors/php_errors.php:165
+[23-Mar-2021 06:36:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-fatal-error-handler.php on line 72
+[23-Mar-2021 06:36:06 UTC] PHP Stack trace:
+[23-Mar-2021 06:36:06 UTC] PHP   1. {main}() /Users/ikedarikito/Local Sites/mysite/app/public/index.php:0
+[23-Mar-2021 06:36:06 UTC] PHP   2. require() /Users/ikedarikito/Local Sites/mysite/app/public/index.php:17
+[23-Mar-2021 06:36:06 UTC] PHP   3. require_once() /Users/ikedarikito/Local Sites/mysite/app/public/wp-blog-header.php:19
+[23-Mar-2021 06:36:06 UTC] PHP   4. include() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/template-loader.php:106
+[23-Mar-2021 06:36:06 UTC] PHP   5. the_post() /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/themes/tra/index.php:89
+[23-Mar-2021 06:36:06 UTC] PHP   6. WP_Query->the_post() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/query.php:975
+[23-Mar-2021 06:36:06 UTC] PHP   7. WP_Query->next_post() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-query.php:3329
+[23-Mar-2021 06:36:06 UTC] PHP   8. QM_Collector_PHP_Errors->error_handler() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-query.php:3300
+[23-Mar-2021 06:36:06 UTC] PHP   9. QM_Backtrace->__construct() /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/plugins/query-monitor/collectors/php_errors.php:165
+[23-Mar-2021 06:36:06 UTC] PHP  10. WP_Fatal_Error_Handler->handle() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-fatal-error-handler.php:0
+[23-Mar-2021 06:36:06 UTC] PHP  11. WP_Fatal_Error_Handler->detect_error() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-fatal-error-handler.php:40
+[23-Mar-2021 06:36:06 UTC] PHP  12. error_get_last() /Users/ikedarikito/Local Sites/mysite/app/public/wp-includes/class-wp-fatal-error-handler.php:72
+[23-Mar-2021 06:42:49 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/ikedarikito/Local Sites/mysite/app/public/wp-content/themes/tra/index.php on line 91
+[23-Mar-2021 06:42:49 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0

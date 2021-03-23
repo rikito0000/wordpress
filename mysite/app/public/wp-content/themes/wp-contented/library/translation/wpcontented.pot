@@ -1,0 +1,948 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Contented v1.0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-30 11:01:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:9
+#@ wpcontented
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:25
+#@ wpcontented
+msgid "The article you were looking for was not found. You may want to check your link or perhaps that page does not exist anymore."
+msgstr ""
+
+#: archive.php:53
+#: page.php:89
+#: search.php:20
+#: single.php:166
+#@ wpcontented
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: archive.php:54
+#: search.php:21
+#@ wpcontented
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: archive.php:57
+#: index.php:136
+#: search.php:24
+#@ wpcontented
+msgid "Older Entries"
+msgstr ""
+
+#: archive.php:76
+#: header.php:67
+#: index.php:126
+#: page.php:76
+#: search.php:43
+#: sidebar-page.php:16
+#: sidebar.php:16
+#: single.php:151
+#@ wpcontented
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: audio.php:33
+#: image.php:28
+#, php-format
+#@ wpcontented
+msgid "Posted on <time class=\"updated\" datetime=\"%1$s\" pubdate>%2$s</time>"
+msgstr ""
+
+#: comments.php:17
+#@ wpcontented
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:17
+#@ wpcontented
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:17
+#@ wpcontented
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:27
+#@ wpcontented
+msgid "Reply"
+msgstr ""
+
+#: comments.php:38
+#@ wpcontented
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:39
+#@ wpcontented
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+#@ wpcontented
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:7
+#@ wpcontented
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:7
+#, php-format
+#@ wpcontented
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:7
+#@ wpcontented
+msgid "http://deucethemes.com"
+msgstr ""
+
+#: footer.php:7
+#: home-post-format/home-aside.php:22
+#: home-post-format/home-audio.php:26
+#: home-post-format/home-chat.php:18
+#: home-post-format/home-gallery.php:17
+#: home-post-format/home-image.php:17
+#: home-post-format/home-link.php:19
+#: home-post-format/home-quote.php:29
+#: home-post-format/home-status.php:9
+#: home-post-format/home-video.php:15
+#: home-post-format/home.php:17
+#: index.php:65
+#: single.php:34
+#, php-format
+#@ wpcontented
+msgid "%s"
+msgstr ""
+
+#: footer.php:17
+#@ wpcontented
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:71
+#@ wpcontented
+msgid "Menu Widget Area"
+msgstr ""
+
+#: functions.php:72
+#@ wpcontented
+msgid "The Menu Widget Area."
+msgstr ""
+
+#: functions.php:81
+#@ wpcontented
+msgid "Homepage Widget Area"
+msgstr ""
+
+#: functions.php:82
+#@ wpcontented
+msgid "The Homepage Widget Area."
+msgstr ""
+
+#: functions.php:91
+#@ wpcontented
+msgid "Posts Widget Area"
+msgstr ""
+
+#: functions.php:92
+#@ wpcontented
+msgid "The Posts Widget Area."
+msgstr ""
+
+#: functions.php:101
+#@ wpcontented
+msgid "Page Widget Area"
+msgstr ""
+
+#: functions.php:102
+#@ wpcontented
+msgid "The Page Widget Area."
+msgstr ""
+
+#: functions.php:111
+#@ wpcontented
+msgid "Archive Widget Area"
+msgstr ""
+
+#: functions.php:112
+#@ wpcontented
+msgid "The Archive Widget Area."
+msgstr ""
+
+#: functions.php:147
+#@ wpcontented
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:151
+#, php-format
+#@ wpcontented
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: functions.php:151
+#@ wpcontented
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:153
+#@ wpcontented
+msgid "F jS, Y"
+msgstr ""
+
+#: functions.php:186
+#@ wpcontented
+msgid "Primary Color Scheme"
+msgstr ""
+
+#: functions.php:198
+#@ wpcontented
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: functions.php:205
+#@ wpcontented
+msgid "Site Logo"
+msgstr ""
+
+#: functions.php:207
+#@ wpcontented
+msgid "Upload a logo to replace the default site name in the header"
+msgstr ""
+
+#: functions.php:215
+#@ wpcontented
+msgid "Choose your logo (max-width is 350px)"
+msgstr ""
+
+#: functions.php:222
+#@ wpcontented
+msgid "Site favicon"
+msgstr ""
+
+#: functions.php:224
+#@ wpcontented
+msgid "Upload a favicon"
+msgstr ""
+
+#: functions.php:232
+#@ wpcontented
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: functions.php:239
+#@ wpcontented
+msgid "Social Media Icons"
+msgstr ""
+
+#: functions.php:241
+#@ wpcontented
+msgid "Optional media icons in the header"
+msgstr ""
+
+#: functions.php:249
+#@ wpcontented
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: functions.php:260
+#@ wpcontented
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: functions.php:271
+#@ wpcontented
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: functions.php:282
+#@ wpcontented
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: functions.php:293
+#@ wpcontented
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: functions.php:304
+#@ wpcontented
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: functions.php:315
+#@ wpcontented
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: functions.php:326
+#@ wpcontented
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: functions.php:337
+#@ wpcontented
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: functions.php:348
+#@ wpcontented
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: functions.php:359
+#@ wpcontented
+msgid "Enter your RSS url"
+msgstr ""
+
+#: functions.php:370
+#@ wpcontented
+msgid "Enter your email address"
+msgstr ""
+
+#: functions.php:379
+#@ wpcontented
+msgid "Slider Options"
+msgstr ""
+
+#: functions.php:381
+#@ wpcontented
+msgid "Adjust the behavior of the image slider."
+msgstr ""
+
+#: functions.php:385
+#@ wpcontented
+msgid "scrollHorz"
+msgstr ""
+
+#: functions.php:392
+#@ wpcontented
+msgid "Select Effect:"
+msgstr ""
+
+#: functions.php:396
+#@ wpcontented
+msgid "Horizontal (Default)"
+msgstr ""
+
+#: functions.php:397
+#@ wpcontented
+msgid "Vertical"
+msgstr ""
+
+#: functions.php:398
+#@ wpcontented
+msgid "Tile Slide"
+msgstr ""
+
+#: functions.php:399
+#@ wpcontented
+msgid "Blinds"
+msgstr ""
+
+#: functions.php:400
+#@ wpcontented
+msgid "Shuffle"
+msgstr ""
+
+#: functions.php:409
+#@ wpcontented
+msgid "Autoplay Speed in Seconds"
+msgstr ""
+
+#: functions.php:416
+#@ wpcontented
+msgid "Disable Author Bio"
+msgstr ""
+
+#: functions.php:418
+#@ wpcontented
+msgid "Option to disable the author bio in the posts."
+msgstr ""
+
+#: functions.php:427
+#@ wpcontented
+msgid "Disable the Author Bio?"
+msgstr ""
+
+#: functions.php:434
+#@ wpcontented
+msgid "Disable Related Posts"
+msgstr ""
+
+#: functions.php:436
+#@ wpcontented
+msgid "Option to disable the related posts in the posts."
+msgstr ""
+
+#: functions.php:445
+#@ wpcontented
+msgid "Disable the Related Posts?"
+msgstr ""
+
+#: functions.php:557
+#@ wpcontented
+msgid "Read more"
+msgstr ""
+
+#: functions.php:781
+#: library/class/class-tgm.php:161
+#@ wpcontented
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:782
+#: library/class/class-tgm.php:162
+#@ wpcontented
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:783
+#: library/class/class-tgm.php:163
+#, php-format
+#@ wpcontented
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:784
+#@ wpcontented
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:785
+#: library/class/class-tgm.php:165
+#, php-format
+#@ wpcontented
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:786
+#: library/class/class-tgm.php:166
+#, php-format
+#@ wpcontented
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:787
+#: library/class/class-tgm.php:167
+#, php-format
+#@ wpcontented
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:788
+#: library/class/class-tgm.php:168
+#, php-format
+#@ wpcontented
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:789
+#: library/class/class-tgm.php:169
+#, php-format
+#@ wpcontented
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:790
+#: library/class/class-tgm.php:170
+#, php-format
+#@ wpcontented
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:791
+#: library/class/class-tgm.php:171
+#, php-format
+#@ wpcontented
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:792
+#: library/class/class-tgm.php:172
+#, php-format
+#@ wpcontented
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:793
+#: library/class/class-tgm.php:173
+#@ wpcontented
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:794
+#: library/class/class-tgm.php:174
+#@ wpcontented
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:795
+#: library/class/class-tgm.php:175
+#@ wpcontented
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:796
+#: library/class/class-tgm.php:177
+#: library/class/class-tgm.php:1956
+#@ wpcontented
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:797
+#, php-format
+#@ wpcontented
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: home-post-format/home-aside.php:9
+#: home-post-format/home-audio.php:5
+#: home-post-format/home-chat.php:8
+#: home-post-format/home-gallery.php:9
+#: home-post-format/home-image.php:9
+#: home-post-format/home-link.php:5
+#: home-post-format/home-quote.php:8
+#: home-post-format/home.php:7
+#@ wpcontented
+msgid "No Featured Image"
+msgstr ""
+
+#: home-post-format/home-aside.php:20
+#: home-post-format/home-audio.php:24
+#: home-post-format/home-chat.php:18
+#: home-post-format/home-gallery.php:17
+#: home-post-format/home-image.php:17
+#: home-post-format/home-link.php:19
+#: home-post-format/home-quote.php:29
+#: home-post-format/home-status.php:9
+#: home-post-format/home-video.php:15
+#: home-post-format/home.php:17
+#: index.php:65
+#: single.php:34
+#@ wpcontented
+msgid "By "
+msgstr ""
+
+#: home-post-format/home-aside.php:22
+#: home-post-format/home-audio.php:26
+#: home-post-format/home-chat.php:18
+#: home-post-format/home-gallery.php:17
+#: home-post-format/home-image.php:17
+#: home-post-format/home-link.php:19
+#: home-post-format/home-quote.php:29
+#: home-post-format/home-status.php:9
+#: home-post-format/home-video.php:15
+#: home-post-format/home.php:17
+#: index.php:65
+#: single.php:34
+#, php-format
+#@ wpcontented
+msgid " / <span>%2$s</span> / "
+msgstr ""
+
+#: home-post-format/home-aside.php:22
+#: home-post-format/home-audio.php:26
+#: home-post-format/home-chat.php:18
+#: home-post-format/home-gallery.php:17
+#: home-post-format/home-image.php:17
+#: home-post-format/home-link.php:19
+#: home-post-format/home-quote.php:29
+#: home-post-format/home-status.php:9
+#: home-post-format/home-video.php:15
+#: home-post-format/home.php:17
+#: index.php:65
+#: single.php:34
+#@ wpcontented
+msgid ", "
+msgstr ""
+
+#: index.php:61
+#, php-format
+#@ wpcontented
+msgid "Read %s"
+msgstr ""
+
+#: index.php:77
+#@ wpcontented
+msgid "Previous"
+msgstr ""
+
+#: index.php:78
+#@ wpcontented
+msgid "Next"
+msgstr ""
+
+#: library/class/class-tgm.php:164
+#@ wpcontented
+msgid "Something went wrong."
+msgstr ""
+
+#: library/class/class-tgm.php:176
+#@ wpcontented
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/class/class-tgm.php:179
+#, php-format
+#@ wpcontented
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/class/class-tgm.php:180
+#@ wpcontented
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/class/class-tgm.php:532
+#: library/class/class-tgm.php:2173
+#@ wpcontented
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/class/class-tgm.php:1167
+#: library/class/class-tgm.php:1348
+#@ wpcontented
+msgid "Private Repository"
+msgstr ""
+
+#: library/class/class-tgm.php:1170
+#: library/class/class-tgm.php:1351
+#@ wpcontented
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/class/class-tgm.php:1175
+#@ wpcontented
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/class/class-tgm.php:1178
+#@ wpcontented
+msgid "Required"
+msgstr ""
+
+#: library/class/class-tgm.php:1178
+#@ wpcontented
+msgid "Recommended"
+msgstr ""
+
+#: library/class/class-tgm.php:1181
+#@ wpcontented
+msgid "Not Installed"
+msgstr ""
+
+#: library/class/class-tgm.php:1183
+#@ wpcontented
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/class/class-tgm.php:1288
+#: library/class/class-tgm.php:1409
+#@ wpcontented
+msgid "Install"
+msgstr ""
+
+#: library/class/class-tgm.php:1312
+#: library/class/class-tgm.php:1410
+#@ wpcontented
+msgid "Activate"
+msgstr ""
+
+#: library/class/class-tgm.php:1372
+#, php-format
+#@ wpcontented
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/class/class-tgm.php:1388
+#@ wpcontented
+msgid "Plugin"
+msgstr ""
+
+#: library/class/class-tgm.php:1389
+#@ wpcontented
+msgid "Source"
+msgstr ""
+
+#: library/class/class-tgm.php:1390
+#@ wpcontented
+msgid "Type"
+msgstr ""
+
+#: library/class/class-tgm.php:1391
+#@ wpcontented
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: library/class/class-tgm.php:1644
+#: library/class/class-tgm.php:178
+#@ wpcontented
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm.php:1939
+#@ wpcontented
+msgid "Install package not available."
+msgstr ""
+
+#: library/class/class-tgm.php:1940
+#, php-format
+#@ wpcontented
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: library/class/class-tgm.php:1941
+#@ wpcontented
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: library/class/class-tgm.php:1942
+#@ wpcontented
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: library/class/class-tgm.php:1943
+#@ wpcontented
+msgid "Plugin install failed."
+msgstr ""
+
+#: library/class/class-tgm.php:1944
+#@ wpcontented
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: library/class/class-tgm.php:1955
+#@ wpcontented
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/class/class-tgm.php:2069
+#@ wpcontented
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm.php:2070
+#, php-format
+#@ wpcontented
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/class/class-tgm.php:2070
+#: library/class/class-tgm.php:2079
+#@ wpcontented
+msgid "Show Details"
+msgstr ""
+
+#: library/class/class-tgm.php:2070
+#: library/class/class-tgm.php:2079
+#@ wpcontented
+msgid "Hide Details"
+msgstr ""
+
+#: library/class/class-tgm.php:2071
+#@ wpcontented
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/class/class-tgm.php:2072
+#, php-format
+#@ wpcontented
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class/class-tgm.php:2076
+#@ wpcontented
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm.php:2077
+#, php-format
+#@ wpcontented
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/class/class-tgm.php:2078
+#, php-format
+#@ wpcontented
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/class/class-tgm.php:2079
+#, php-format
+#@ wpcontented
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/class/class-tgm.php:2080
+#@ wpcontented
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/class/class-tgm.php:2081
+#, php-format
+#@ wpcontented
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/wpcontented.php:168
+#, php-format
+#@ wpcontented
+msgid "Page %s"
+msgstr ""
+
+#: library/wpcontented.php:202
+#@ wpcontented
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: library/wpcontented.php:247
+#@ wpcontented
+msgid "Read "
+msgstr ""
+
+#: library/wpcontented.php:247
+#@ wpcontented
+msgid "[read more]"
+msgstr ""
+
+#: library/wpcontented.php:261
+#@ wpcontented
+msgid "Embed Video"
+msgstr ""
+
+#: library/wpcontented.php:301
+#@ wpcontented
+msgid "Link"
+msgstr ""
+
+#: library/wpcontented.php:343
+#@ wpcontented
+msgid "Quote Content"
+msgstr ""
+
+#: library/wpcontented.php:394
+#@ wpcontented
+msgid "Upload Audio File Here"
+msgstr ""
+
+#: library/wpcontented.php:430
+#@ wpcontented
+msgid "Insert Short Status Here"
+msgstr ""
+
+#: library/wpcontented.php:469
+#@ wpcontented
+msgid "Insert Chat Conversation here"
+msgstr ""
+
+#: page.php:50
+#: post-formats/format-aside.php:8
+#: post-formats/format-audio.php:18
+#: post-formats/format-chat.php:10
+#: post-formats/format-gallery.php:8
+#: post-formats/format-image.php:8
+#: post-formats/format-link.php:10
+#: post-formats/format-quote.php:13
+#: post-formats/format-status.php:8
+#: post-formats/format-video.php:10
+#: post-formats/format.php:8
+#@ wpcontented
+msgid "Pages:"
+msgstr ""
+
+#: page.php:90
+#: single.php:167
+#@ wpcontented
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: post-formats/format-aside.php:18
+#: post-formats/format-audio.php:28
+#: post-formats/format-chat.php:20
+#: post-formats/format-gallery.php:18
+#: post-formats/format-image.php:17
+#: post-formats/format-link.php:20
+#: post-formats/format-quote.php:23
+#: post-formats/format-status.php:18
+#: post-formats/format-video.php:20
+#: post-formats/format.php:17
+#@ wpcontented
+msgid "TAGS: "
+msgstr ""
+
+#: search.php:8
+#@ wpcontented
+msgid "Search Results for:"
+msgstr ""
+
+#: single.php:67
+#@ wpcontented
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: single.php:70
+#@ wpcontented
+msgid "NEXT POST"
+msgstr ""
+
+#: single.php:77
+#@ wpcontented
+msgid "About Author "
+msgstr ""
+
+#: single.php:95
+#@ wpcontented
+msgid "Related Posts "
+msgstr ""
+
